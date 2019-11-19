@@ -1,1 +1,1 @@
-# Animal-Sound-Detection
+# Animal Sound Detection
